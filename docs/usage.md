@@ -28,3 +28,4 @@ Notes and usage details for gh-actions-lock.
 - link the usage section
 - clarify the setup steps
 - link the usage section
+- clarify the setup steps
